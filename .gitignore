@@ -5,3 +5,6 @@ target/
 bin/
 war/
 gwt-unitCache/
+*.iml
+*.ipr
+.idea
